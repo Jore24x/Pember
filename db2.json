@@ -1,0 +1,15 @@
+{
+  "siswa": [
+    {
+      "id": "100101",
+      "nama": "Andre Firdaus",
+      "password": "af101"
+    },
+    {
+      "id": "100102",
+      "nama": "Via Adeline",
+      "password": "va102"
+    }
+  ]
+  
+}
